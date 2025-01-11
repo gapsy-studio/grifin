@@ -1,1 +1,1 @@
-# grifin
+# webpack-template
